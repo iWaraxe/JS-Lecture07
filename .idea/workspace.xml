@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77f2476f-3fd9-4967-86e9-0518cb90954a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section1/CustomObjectSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section1/HashSetAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section1/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section1/TreeSetAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section1/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section2/CustomKeyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section2/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section2/LinkedHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section2/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section2/OverwriteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section2/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section3/AvoidMemoryLeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section3/CustomHashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section3/HashMapModification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section3/HashSetIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coherentsolutions/section3/SubsetCheck.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2WWQa1P3o9eUJsd7IbvH1v94zzV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AvoidMemoryLeak.executor": "Run",
+    "Application.CustomKeyExample.executor": "Run",
+    "Application.CustomObjectSet.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.HashSetAdvanced.executor": "Run",
+    "Application.HashSetDemo.executor": "Run",
+    "Application.HashSetIteration.executor": "Run",
+    "Application.LinkedHashMapExample.executor": "Run",
+    "Application.MapExample.executor": "Run",
+    "Application.OverwriteValue.executor": "Run",
+    "Application.SubsetCheck.executor": "Run",
+    "Application.TreeMapExample.executor": "Run",
+    "Application.TreeSetAdvanced.executor": "Run",
+    "Application.TreeSetDemo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/igorwaraxe/JAVA/JAVA/JavaSchool(MX)/Lectures/Lecture07/Lecture07",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AvoidMemoryLeak">
+    <configuration name="AvoidMemoryLeak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section3.AvoidMemoryLeak" />
+      <module name="Lecture07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomKeyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section2.CustomKeyExample" />
+      <module name="Lecture07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section3.HashSetIteration" />
+      <module name="Lecture07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section2.LinkedHashMapExample" />
+      <module name="Lecture07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubsetCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coherentsolutions.section3.SubsetCheck" />
+      <module name="Lecture07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coherentsolutions.section3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AvoidMemoryLeak" />
+        <item itemvalue="Application.SubsetCheck" />
+        <item itemvalue="Application.HashSetIteration" />
+        <item itemvalue="Application.LinkedHashMapExample" />
+        <item itemvalue="Application.CustomKeyExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24582b8d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77f2476f-3fd9-4967-86e9-0518cb90954a" name="Changes" comment="" />
+      <created>1696845915474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696845915474</updated>
+      <workItem from="1696845916845" duration="9087000" />
+      <workItem from="1706687174821" duration="5860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
